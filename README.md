@@ -2,10 +2,8 @@
 
 In the project directory, you can run:
 
-Installing all the packages: 
-### `npm install`
+### `npm install` - install all the packages: 
 
-Run the project
-### `npm run dev`
+### `npm run dev` - run the project
 
 DON'T FORGET CHANGE THE VARIABLES IN .env file
